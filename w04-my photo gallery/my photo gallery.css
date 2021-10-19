@@ -5,27 +5,55 @@
 }
 .eunji h1 {
   direction: rt1;
+  width:33%
 }
 .eunji img {
-  width: 28%;
+  height:300px;
+  line-height:50px;
+  padding:20px;
+  border:5px #ffdead solid;
+  margin-right:10px;
+  float:left;
 }
 .eunji p {
-  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande',
-    'Lucida Sans', Arial, sans-serif;
+  font-family: "Segoe UI","微軟正黑體",sans-serif;
   font-size: 1.5rem;
-  word-wrap:break-word;
-  width: 40%;
+  float: left;
+  width:400px;
+  line-height:50px;
+  padding:20px;
+  border:5px #b8860b solid;
 }
 .jaehee h1 {
   direction: rt1;
+  width:33%;
 }
 .jaehee img {
-  width: 28%;
+  height: 300px;
+  line-height:50px;
+  padding:20px;
+  border:5px #ffdead solid;
+  margin-right:10px;
+  float:left;
 }
 .jaehee p {
-  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande',
-    'Lucida Sans', Arial, sans-serif;
+  font-family: "Segoe UI","微軟正黑體",sans-serif;
   font-size: 1.5rem;
-  word-wrap:break-word;
-  width: 40%;
+  width:400px;
+  line-height:50px;
+  padding:20px;
+  border:5px #b8860b solid;
+  float:left;
+}
+.experience h1 {
+  width:25%;
+}
+.experience p {
+  font-family: "Segoe UI","微軟正黑體",sans-serif;
+  font-size: 1.5rem;
+  width:400px;
+  line-height:50px;
+  padding:20px;
+  border:5px #b8860b solid;
+  float:left;
 }
